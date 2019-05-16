@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">MovieCatalogue</string>
+    <string name="name_movies">Judul Film</string>
+    <string name="lorem">lorem ipsum dolor sit amet</string>
+    <string-array name="data_tittle">
+        <item>A Star</item>
+        <item>Aquaman</item>
+        <item>Avenger Infinity</item>
+        <item>Birdbox</item>
+        <item>Bohemian</item>
+        <item>Bumble Bee</item>
+        <item>Creed</item>
+        <item>Dead Pool</item>
+        <item>Dragon</item>
+        <item>Dragon Ball</item>
+        <item>Glass</item>
+        <item>Hunter Killer</item>
+        <item>Marry Popins</item>
+        <item>Mortal Engine</item>
+        <item>Preman</item>
+        <item>Robin Hood</item>
+        <item>Spiderman</item>
+        <item>The Girl</item>
+        <item>The Mule</item>
+        <item>Venom</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Jackson Jack Maine, a famous country music singer privately battling an alcohol and drug addiction, plays a concert in California. His main support is Bobby, his manager and older half-brother. After the show, Jack visits a drag bar where he witnesses a performance by Ally, a waitress and singer-songwriter. Jack is amazed by her performance, and they spend the night talking to each other, where Ally discloses to him the troubles she has faced in pursuing a professional music career</item>
+        <item>In 1985 Maine, lighthouse keeper Thomas Curry rescues Atlanna, the queen of the underwater nation of Atlantis, during a storm. They eventually fall in love and have a son named Arthur, who is born with the power to communicate with marine lifeforms. Atlanna is forced to abandon her family and return to Atlantis, entrusting to her advisor, Nuidis Vulko, with the mission of training Arthur. Under Vulkos guidance, Arthur becomes a skilled warrior but rejects Atlantis upon learning that Atlanna was executed for having a half-breed son.</item>
+        <item>Iron Man, Thor, the Hulk and the rest of the Avengers unite to battle their most powerful enemy yet -- the evil Thanos. On a mission to collect all six Infinity Stones, Thanos plans to use the artifacts to inflict his twisted will on reality. The fate of the planet and existence itself has never been more uncertain as everything the Avengers have fought for has led up to this moment.</item>
+        <item>When a mysterious force decimates the population, only one thing is certain -- if you see it, you die. The survivors must now avoid coming face to face with an entity that takes the form of their worst fears. Searching for hope and a new beginning, a woman and her children embark on a dangerous journey through the woods and down a river to find the one place that may offer sanctuary. To make it, theyll have to cover their eyes from the evil that chases them -- and complete the trip blindfolded</item>
+        <item>BOHEMIAN RHAPSODY adalah film yang diangkat dari kisah nyata untuk merayakan musik band Rock legendaris QUEEN dan tentunya vokalis mereka yang luar biasa, FREDDIE MERCURY, yang dikenal menentang tradisi dan stereotip hingga menjadi salah satu penghibur yang paling dicintai di planet ini.</item>
+        <item>On the run in the year of 1987, Bumblebee finds refuge in a junkyard in a small Californian beach town. Charlie, on the cusp of turning 18 and trying to find her place in the world, discovers Bumblebee, battle-scarred and broken. </item>
+        <item>Adonis Johnson (Michael B. Jordan) never knew his famous father, boxing champion Apollo Creed, who died before Adonis was born. However, boxing is in his blood, so he seeks out Rocky Balboa (Sylvester Stallone) and asks the retired champ to be his trainer. Rocky sees much of Apollo in Adonis, and agrees to mentor him, even as he battles an opponent deadlier than any in the ring. With Rockys help, Adonis soon gets a title shot, but whether he has the true heart of a fighter remains to be seen. </item>
+        <item>Wade Wilson (Ryan Reynolds) is a former Special Forces operative who now works as a mercenary. His world comes crashing down when evil scientist Ajax (Ed Skrein) tortures, disfigures and transforms him into Deadpool. The rogue experiment leaves Deadpool with accelerated healing powers and a twisted sense of humor. With help from mutant allies Colossus and Negasonic Teenage Warhead (Brianna Hildebrand), Deadpool uses his new skills to hunt down the man who nearly destroyed his life.</item>
+        <item>From DreamWorks Animation comes a surprising tale about growing up, finding the courage to face the unknown…and how nothing can ever train you to let go. What began as an unlikely friendship between an adolescent Viking and a fearsome Night Fury dragon has become an epic adventure spanning their lives. Welcome to the most astonishing chapter of one of the most beloved animated franchises in film history: How to Train Your Dragon: The Hidden World. Now chief and ruler of Berk alongside Astrid, Hiccup has created a gloriously chaotic dragon utopia. When the sudden appearance of female Light Fury coincides with the darkest threat their village has ever faced, Hiccup and Toothless must leave the only home they’ve known and journey to a hidden world thought only to exist in myth. As their true destines are revealed, dragon and rider will fight together—to the very ends of the Earth—to protect everything they’ve grown to treasure. For How to Train Your Dragon: The Hidden World, series director Dean DeBlois returns alongside the all-star cast. The film is produced by Brad Lewis (Ratatouille, ANTZ) and Bonnie Arnold (Toy Story, How to Train Your Dragon,How to Train Your Dragon 2).</item>
+        <item>Dragon Ball, sometimes styled as Dragonball, is a Japanese media franchise created by Akira Toriyama in 1984. The initial manga, written and illustrated by Toriyama, was serialized in Weekly Shonen Jump from 1984 to 1995, with the 519 individual chapters collected into 42 tankobon volumes by its publisher Shueisha</item>
+        <item>M. Night Shyamalan brings together the narratives of two of his standout originals—2000’s Unbreakable, from Touchstone, and 2016’s Split, from Universal—in one explosive, all-new comic-book thriller: Glass. From Unbreakable, Bruce Willis returns as David Dunn as does Samuel L. Jackson as Elijah Price, known also by his pseudonym Mr. Glass. Joining from Split are James McAvoy, reprising his role as Kevin Wendell Crumb and the multiple identities who reside within, and Anya Taylor-Joy as Casey Cooke, the only captive to survive an encounter with The Beast. Following the conclusion of Split, Glass finds Dunn pursuing Crumb’s superhuman figure of The Beast in a series of escalating encounters, while the shadowy presence of Price emerges as an orchestrator who holds secrets critical to both men.</item>
+        <item>American submarine Captain Joe Glass is on the hunt for a U.S. sub in distress in the Arctic Ocean. He soon learns that a secret Russian coup is in the offing, a conspiracy that threatens to dismantle the world order. With crew and country on the line, Glass must assemble an elite group of Navy SEALs to sneak through enemy waters, rescue the kidnapped Russian president and prevent World War III.</item>
+        <item>When Jane (Karen Dotrice) and Michael (Matthew Garber), the children of the wealthy and uptight Banks family, are faced with the prospect of a new nanny, they are pleasantly surprised by the arrival of the magical Mary Poppins (Julie Andrews). Embarking on a series of fantastical adventures with Mary and her Cockney performer friend, Bert (Dick Van Dyke), the siblings try to pass on some of their nannys sunny attitude to their preoccupied parents (David Tomlinson, Glynis Johns).</item>
+        <item>Hundreds of years after civilization was destroyed by a cataclysmic event, a mysterious young woman, Hester Shaw (Hera Hilmar), emerges as the only one who can stop London — now a giant, predator city on wheels — from devouring everything in its path. Feral, and fiercely driven by the memory of her mother, Hester joins forces with Tom Natsworthy (Robert Sheehan), an outcast from London, along with Anna Fang (Jihae), a dangerous outlaw with a bounty on her head.</item>
+        <item>Setelah tiga tahun, bisnis kecimpring Muslihat yang sudah pensiun sebagai preman, mengalami masalah. Penjualannya mulai menurun. Muslihat juga menghadapi masalah baru saat Safira, anak perempuan satu-satunya, sudah tumbuh remaja dan mulai didatangi lelaki. Masalah lebih besar kemudian muncul, ketika ada masalah di antara mantan anak buahnya.</item>
+        <item>A war-hardened Crusader and his Moorish commander mount an audacious revolt against the corrupt English crown in a thrilling action-adventure packed with gritty battlefield exploits, mind-blowing fight choreography, and a timeless romance</item>
+        <item>Spider-Man centers on student Peter Parker (Tobey Maguire) who, after being bitten by a genetically-altered spider, gains superhuman strength and the spider-like ability to cling to any surface. He vows to use his abilities to fight crime, coming to understand the words of his beloved Uncle Ben: With great power comes great responsibility.</item>
+        <item>Alfred Hitchcock was at the height of his fame and creativity when, in 1962, he chose an unknown fashion model to star in his most ambitious film, `The Birds. However, as he sculpted Tippi Hedren into the perfect Hitchcock blonde of his imagination, he became obsessed with the impossible dream of winning the real womans love. His failure destroyed both of their careers.</item>
+        <item>Broke, alone and facing foreclosure on his business, 90-year-old horticulturist Earl Stone takes a job as a drug courier for a Mexican cartel. His immediate success leads to easy money and a larger shipment that soon draws the attention of hard-charging DEA agent Colin Bates. When Earls past mistakes start to weigh heavily on his conscience, he must decide whether to right those wrongs before law enforcement and cartel thugs catch up to him</item>
+        <item>Journalist Eddie Brock is trying to take down Carlton Drake, the notorious and brilliant founder of the Life Foundation. While investigating one of Drakes experiments, Eddies body merges with the alien Venom leaving him with superhuman strength and power. Twisted, dark and fueled by rage, Venom tries to control the new and dangerous abilities that Eddie finds so intoxicating.</item>
+
+    </string-array>
+    <array name="data_photo">
+        <item>@drawable/poster_a_star</item>
+        <item>@drawable/poster_aquaman</item>
+        <item>@drawable/poster_avengerinfinity</item>
+        <item>@drawable/poster_birdbox</item>
+        <item>@drawable/poster_bohemian</item>
+        <item>@drawable/poster_bumblebee</item>
+        <item>@drawable/poster_creed</item>
+        <item>@drawable/poster_deadpool</item>
+        <item>@drawable/poster_dragon</item>
+        <item>@drawable/poster_dragonball</item>
+        <item>@drawable/poster_glass</item>
+        <item>@drawable/poster_hunterkiller</item>
+        <item>@drawable/poster_marrypopins</item>
+        <item>@drawable/poster_mortalengine</item>
+        <item>@drawable/poster_preman</item>
+        <item>@drawable/poster_robinhood</item>
+        <item>@drawable/poster_spiderman</item>
+        <item>@drawable/poster_thegirl</item>
+        <item>@drawable/poster_themule</item>
+        <item>@drawable/poster_venom</item>
+    </array>
+</resources>
